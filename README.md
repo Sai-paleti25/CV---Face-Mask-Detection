@@ -3,6 +3,8 @@
 ## Objective:
 To detect if a person or people in a given image/video frame is wearing a mask or not.
 
+![](trained_image.png)
+
 ## Dataset:
 https://www.kaggle.com/andrewmvd/face-mask-detection
 
